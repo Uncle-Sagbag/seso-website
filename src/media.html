@@ -1,0 +1,20 @@
+---
+title: Media
+layout: media.njk
+---
+<h1>Operation Media</h1>
+<div>
+{% for image in collections.media %}
+    <div class="cssbox">
+        <a href="#image{{forloop.index}}" id="image{{forloop.index}}"><img src="{{image.thumbpath | slice: 1, image.thumbpath.size }}" class="cssbox_thumb">
+        <span class="cssbox_full"><img src="{{image.path | slice: 1, image.thumbpath.size }}"></span></a>
+        <a class="cssbox_close" href="#void"></a>
+        {% if forloop.first == false %}
+        <a class="cssbox_prev" href="#image{{ forloop.index | minus: 1 }}">&lt;</a>
+        {% endif %}
+        {% if forloop.last == false %}
+        <a class="cssbox_next" href="#image{{ forloop.index | plus: 1 }}">&gt;</a>
+        {% endif %}
+    </div>
+{% endfor %}
+</div>

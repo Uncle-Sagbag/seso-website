@@ -1,0 +1,45 @@
+---
+title: Index
+---
+
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel ="icon" href="/assets/favicon.ico" sizes="any">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/cssbox.css">
+    <link rel="stylesheet" href="/assets/css/cssclear.css">
+    <link rel="stylesheet" href="/assets/css/timeline.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/gothic-a1" type="text/css"/> 
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cooper-hewitt" type="text/css"/>
+  </head>
+
+    <body>
+
+        <header>
+            <nav class="topnav">
+                <a class="{{ 'active' if page.url.length == 1 }}" href="/">HOME</a>
+                <a class="{{ 'active' if 'operations' in page.url }}" href="/operations/">OPERATIONS</a>
+                <a class="{{ 'active' if 'media' in page.url }}" href="/media/">MEDIA</a>
+                <div id="logo"><a href="/"> <img src="/assets/img/sesopatch.png" alt="SESO Logo"></a></div>
+                <a class="{{ 'active' if 'community' in page.url }}" href="/community/">COMMUNITY</a>
+                <a class="{{ 'active' if 'about' in page.url }}" href="/about/">ABOUT</a>
+                <a class="{{ 'active' if 'merch' in page.url }}" href="/merch/">MERCH</a>
+            </nav>
+        </header>
+
+        <main>
+            {{ content | safe }}
+        </main>
+        <footer>
+            <p><a href="/"><img id="botnav-logo" src="/assets/img/sesopatch.png" alt="SESO Logo"></a> S.E.S.O. <a id="botnav-right" href="/about/">About</a></p>
+        </footer>
+
+    </body>
+
+</html>
