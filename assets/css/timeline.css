@@ -36,7 +36,7 @@
     font-family: 'CooperHewittSemibold';
     display: inline-block;
     content: attr(data-year);
-    font-size: large;
+    font-size: medium;
     position: absolute;
     transform: translateX(-50%);
 }
@@ -48,7 +48,7 @@
 .timeline li:after {
     display: inline-block;
     content: attr(data-text);
-    font-size: 14px;
+    font-size: xx-small;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
