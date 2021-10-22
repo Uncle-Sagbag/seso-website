@@ -27,7 +27,7 @@ We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a s
 
 ### Infantry-focused Combat
 
-Infantry is the backbone of the unit and every vehicle is meant to support it. Most common roles we offer are engineer, medic, machinegunner, designated marksman, sniper, scout, squad leader, team leader, UAV operator, radio operator,
+Infantry is the backbone of the unit and every vehicle is meant to support it. Most common roles we offer are engineer, medic, machinegunner, designated marksman, sniper, scout, squad leader, team leader, UAV operator, and radio operator.
 
 ### S.E.S.O. Storyline Operations
 
