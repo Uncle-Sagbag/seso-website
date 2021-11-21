@@ -15,7 +15,7 @@ S.E.S.O. Operation | 1800 EST | 1800 EST
 ## What we offer
 ### Casual MilSim Atmosphere
 
-We focus on having fun first, being tactical later. This means many of our addons and structure are configured for maximum enjoyment with the the least drag.
+We focus on having fun first, being tactical second. Our settings are configured for maximum enjoyment with the the least drag.
 
 ### Easily Accessible
 
@@ -23,7 +23,7 @@ No experience, no test, no minimum age, no microphone needed, no single-clanning
 
 ### Rankless structure
 
-We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a structure. Anyone is permissible to choose any role they wish, whether it be squad leader, sniper, pilot, etc. as long as most of the group agrees with the role selection.
+We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a structure and use common-sense tactics as defined in our [Tactics Training manual](https://wiki.sesounit.org/tutorials_guides:tactics_training). Anyone is permitted to choose any role they wish, whether it be squad leader, sniper, pilot, etc. as long as most of the group agrees with the role selection.
 
 ### Infantry-focused Combat
 
@@ -47,9 +47,9 @@ Operations set in the S.E.S.O. canon are part of a storyline that spans decades.
 
 Our dedicated server machine runs community-made scenarios on rotation, always available to play any time. This is available for all Operators, whether they attend operations or not. The current scenarios we play are Antistasi (with RHS mods), Manhunt, and Dynamic Recon Ops. Feel free to suggest more workshop missions.
 
-### Side Engagements
+### Hosting Engagements
 
-S.E.S.O. makes it easy for one to become a host of engagements/operations. Ask Operations Command to feature your custom-made missions to the unit. There is no test or experience necessary. With enough experience, one can also contribute to the S.E.S.O. storyline.
+It is possible for any Operator to become an Operation/Engagement Host. Ask Operations Command to feature your custom-made missions to the unit. There is no test or experience necessary. With enough experience, one can also contribute to the S.E.S.O. storyline. See the [Operation Standard](https://wiki.sesounit.org/tutorials_guides:operation_standard) for more details.
 
 ### Active Lounge
 
