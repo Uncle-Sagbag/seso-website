@@ -8,12 +8,21 @@ html {
 	-moz-osx-fon-smoothing: grayscale;
 }
 
+body {
+  font-size: 12pt;
+}
+
 footer {
   background-color: black;
   color: white;
   width: 100%;
   margin-top: 64px;
   padding: 6px 34px;
+}
+
+table {
+  table-layout: fixed;
+  width:100%;
 }
 
 #botnav-right {
@@ -72,7 +81,7 @@ article {
   margin: auto;
   margin-bottom: 40px;
   width: 100%;
-  padding: 64px;
+  padding: 32px;
   box-shadow: 0px 0px 12px black;
   background-color: rgba(18, 19, 18);
   color: rgb(221, 221, 221);
@@ -196,7 +205,14 @@ blockquote footer:before {
 /* Responsive Design */
 /* For tablets: */
 @media only screen and (min-width: 690px) {
-  article { width: 680px; }
+  body {
+    font-size: 12pt;
+  }
+
+  article { 
+    width: 680px;
+    padding: 62px 124px;
+  }
 
   .topnav a {
     min-inline-size: 60px;
@@ -214,8 +230,13 @@ blockquote footer:before {
 
 /* For desktop: */
 @media only screen and (min-width: 1024px) {
+  body {
+    font-size: 14pt;
+  }
+
   article { 
     width: 980px; 
+    padding: 62px 184px;
   }
   
   h1 {
