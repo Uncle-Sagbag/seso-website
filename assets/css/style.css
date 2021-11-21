@@ -4,7 +4,6 @@ html {
   margin-left: 2%;
   margin-right: 2%;
 	text-rendering: optimizeLegibility;
-	font-smoothing: antialiased;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-fon-smoothing: grayscale;
 }
@@ -33,13 +32,13 @@ footer {
   font-family: 'CooperHewittSemibold'; 
   box-shadow: 0px 0px 6px black;
   background-color: rgb(18, 19, 18);
-  min-inline-size: 160px;
-  font-size: 1.3pc;
   text-align: center;
   text-decoration: none;
   color: white;
-  margin: 0 40px;
-  padding: 15px;
+  min-inline-size: 50px;
+  font-size: 0.75pc;
+  margin: 0 2px;
+  padding: 5px;
 }
 
 /* Change the color of links on hover */
@@ -54,7 +53,7 @@ footer {
 }
 
 #logo {
-  width: 126px;
+  width: 63px;
   height: 100%;
 }
 
@@ -198,6 +197,19 @@ blockquote footer:before {
 /* For tablets: */
 @media only screen and (min-width: 690px) {
   article { width: 680px; }
+
+  .topnav a {
+    min-inline-size: 60px;
+    font-size: 1.2pc;
+    margin: 0 5px;
+    padding: 10px;
+  }
+
+  #logo {
+    width: 94.5px;
+    height: 100%;
+  }
+
 }
 
 /* For desktop: */
@@ -212,6 +224,18 @@ blockquote footer:before {
 
   h2 {
     font-size: x-large;
+  }
+
+  .topnav a {
+    min-inline-size: 120px;
+    font-size: 1.2pc;
+    margin: 0 15px;
+    padding: 15px;
+  }
+
+  #logo {
+    width: 123px;
+    height: 100%;
   }
 }
 
