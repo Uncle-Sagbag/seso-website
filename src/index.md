@@ -2,10 +2,10 @@
 title: Home
 layout: home.njk
 ---
-# Welcome to the S.E.S.O. Official Website!
+# Welcome to S.E.S.O.
 ***
 ## Schedule
-We operate in the EST timezone. However, we are open to all timezones, especially European and Pacific.
+We operate in the EST timezone. However, we have Operators from other timezones, especially European and Pacific.
 
 Operation | Saturday | Sunday
 :--|:--|:--
@@ -23,31 +23,38 @@ No experience, no test, no minimum age, no microphone needed, no single-clanning
 
 ### Rankless structure
 
-We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a structure. Anyone is permissible to choose any role they wish, whether it be squad leader, sniper, pilot, etc. as long as most of the group agrees with the role selection. Usually, the group is fine with anyone's selection and the structure works harmoniously.
+We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a structure. Anyone is permissible to choose any role they wish, whether it be squad leader, sniper, pilot, etc. as long as most of the group agrees with the role selection.
 
 ### Infantry-focused Combat
 
-Infantry is the backbone of the unit and every vehicle is meant to support it. Most common roles we offer are engineer, medic, machinegunner, designated marksman, sniper, scout, squad leader, team leader, UAV operator, and radio operator.
+Infantry is the backbone of the unit and every vehicle is meant to support it. Most common roles we offer are:
+* Designated Marksman 
+* Engineer
+* Medic 
+* Machinegunner
+* Sniper
+* Scout
+* Squad Leader
+* Team Leader
+* Radio Operator
+* UAV Operator
 
-### S.E.S.O. Storyline Operations
+### S.E.S.O. Canon Operations
 
-Operations set in the S.E.S.O. canon are part of a storyline that spans several campaigns. This means our operations can be set in any time period and setting. We have operated during the invasion of Czechoslovakia (Sudeten Crisis, 1938), the Vietnam War (Operation Burning Buddhist, 1965), the Chernobyl Exclusion Zone (Operation Green Diamond, 1988), and the Donbass War (Operation Black Bear, 2014). We also operate in fictional settings that are based off historical events such as a Yugoslavian civil war set on Fapovo Islands (Operation Openhouse, 1992), and a Southern African civil war on Isla Duala (Isla Duala Civil War, 2000).
+Operations set in the S.E.S.O. canon are part of a storyline that spans decades. This means our operations can be set in any time period and setting. We have operated during the invasion of Czechoslovakia (Sudeten Crisis, 1938), the Vietnam War (Operation Burning Buddhist, 1965), the Chernobyl Exclusion Zone (Operation Green Diamond, 1988), and the Donbass War (Operation Black Bear, 2014). We also operate in fictional settings that are inspired by historical events such as a Yugoslavian Wars set on Fapovo Islands (Operation Openhouse, 1992), and a Southern African civil war on Isla Duala (Isla Duala Civil War, 2000).
 
 ### 24/7 Scenarios Server
 
-Our dedicated server machine runs community-made scenarios on rotation, always available to play any time. This is perfect for individuals who cannot make it to the operations but wish to spend time with S.E.S.O. It is also good for any people who just want more Arma 3 in their lives. The current scenarios we play are Antistasi (with RHS mods), Manhunt, and Dynamic Recon Ops. Feel free to suggest more workshop missions.
+Our dedicated server machine runs community-made scenarios on rotation, always available to play any time. This is available for all Operators, whether they attend operations or not. The current scenarios we play are Antistasi (with RHS mods), Manhunt, and Dynamic Recon Ops. Feel free to suggest more workshop missions.
 
 ### Side Engagements
 
-S.E.S.O. makes it easy for one to become a host of engagements/operations. Upon request and feedback from experienced Operation Hosts, one can quickly feature their custom-made missions to the unit. There is no strict test or experience necessary. With enough engagements under one's sleeve, one can even contribute to the S.E.S.O. storyline.
+S.E.S.O. makes it easy for one to become a host of engagements/operations. Ask Operations Command to feature your custom-made missions to the unit. There is no test or experience necessary. With enough experience, one can also contribute to the S.E.S.O. storyline.
 
 ### Active Lounge
 
-Every night, we gather in voice channels to play games. We are welcome for anyone to join in our multiplayer game sessions, developing mods, or just to chat.
+Every night, we gather in voice channels to play games. We are welcome for anyone to join in our multiplayer game sessions, mod developments, or just to chat.
 
-***
-## Background
-In 2018, we grew dissatisfied with the strict bureacracy associated with Arma MilSim units. It was difficult to get into an engaging operation fast and easily. Thus, S.E.S.O. was created. We are a tightly knit community bent on providing engaging experiences where friends can cooperate without the overhead of ranks and tests. Since then, we have garnered 15+ active players per operation and we hope to garner more. We will keep posting for recruitment until our soft-cap of 32 active players. We welcome you to join us for one operation or many.
 
 ***
 
@@ -61,7 +68,9 @@ In 2018, we grew dissatisfied with the strict bureacracy associated with Arma Mi
 ***
 
 # About SESO
-S.E.S.O. is a private military company with an extensive history since our inception in 1938. Please visit [Operations](/operations/) and [Media](/media/) to see our current and previous operations.
+S.E.S.O. was created in 2018 between a group of military nuts. Since then, we have been hosting operations for all to join. We are a tightly knit community bent on providing engaging experiences where friends can cooperate without the overhead of ranks and tests. We receive 10+ players per operation. We welcome you to join us for one operation or many.
+
+S.E.S.O. is a private military company with an extensive history since our inception in 1938. Please visit [Operations](/operations/) and [Media](/media/) to see our previous operations.
 
 ![SESO Operation Black Bear Group Photo](/assets/img/groupphoto.jpeg "SESO Group Photo")
 
