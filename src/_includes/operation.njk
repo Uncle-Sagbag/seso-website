@@ -2,26 +2,19 @@
 layout: index.njk
 ---
 <article>
-<ul class="timeline">
-{% for page in collections.timeline %}
-    <a href="{{ page.url }}"><li data-year="{{ page.data.op_date }}" data-text="{{ page.data.title }}"></li></a>
-{%- endfor %}
-</ul>
+
+{% include "_timeline.njk" %}
+
 </article>
 
 <article>
 
-<h3> {{ title }} </h1>
-<h3> c. {{ op_date }} | {{ real_date }} </h2>
+<h3> {{ title }} </h3>
+<h3> c. {{ op_date }} | {{ real_date }} </h3>
 {% if cover_img -%}
-<img src="/assets/img/{{ cover_img }}" alt="Operation Cover Image">
+<img src="/assets/img/{{ cover_img }}" alt="{{ title }} Cover Image">
 {%- endif %}
-    {{ content | safe }}
-</article>
 
-<article>
-    <h2> {{title}} Documents </h2>
-    <a href='/maps/maps-isla-duala'>Maps</a><br>
-    <a href='/briefs/'>Briefs</a><br>
-    <a href='/media/'>Media</a><br>
+{{ content | safe }}
+
 </article>

@@ -1,0 +1,5 @@
+<ul class="timeline">
+{% for page in collections.timeline %}
+    <a href="{{ page.url }}"><li data-year="{{ page.data.op_date }}" data-text="{{ page.data.title }}"></li></a>
+{%- endfor %}
+</ul>
