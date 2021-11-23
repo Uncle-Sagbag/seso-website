@@ -12,6 +12,11 @@ body {
   font-size: 12pt;
 }
 
+strong {
+  font-weight: bold;
+  color: white;
+}
+
 footer {
   background-color: black;
   color: white;

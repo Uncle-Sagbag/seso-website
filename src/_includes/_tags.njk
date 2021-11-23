@@ -1,0 +1,5 @@
+<ul>
+{% for page in collections[page.fileSlug | replace("-","_")]%}
+    <a href="{{ page.url }}"><li>{{ page.url }}</li></a>
+{%- endfor %}
+</ul>
