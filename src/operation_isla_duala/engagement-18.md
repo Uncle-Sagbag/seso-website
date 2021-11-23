@@ -22,14 +22,23 @@ __Execution:__
 
 __Enemy Intelligence:__
 Below is the list of intelligence available on all forces on the field. Items with a check are verified to appear on the battlefield. Items with an X are verified to never appear in the battlefield. Items not mentioned are implied to never appear on the battlefield as well.
+
 :heavy_check_mark: Motorized Infantry (Cars)
+
 :heavy_check_mark: Mechanized Infantry (APCs)
+
 :heavy_check_mark: Suicide Bombers
+
 :heavy_check_mark: Snipers
+
 :heavy_check_mark: Armor
+
 :heavy_check_mark: Helicopters
+
 :heavy_check_mark: Artillery (Mortars, rockets, etc.)
+
 :x: Mines & IEDs
 
 __Operation Result:__ Fucking Success!
+
 The results of the entire campaign shall be revealed tomorrow at #isla-duala-political-climate

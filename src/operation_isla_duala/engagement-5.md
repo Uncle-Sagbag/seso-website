@@ -14,14 +14,23 @@ __Execution:__
 7. Repel what is left of the BLA
 
 __Enemy Intelligence:__
+
 Below is the list of intelligence available on the BLA forces. Items with a check are verified to appear on the battlefield. Items with an X are verified to never appear in the battlefield. Items not mentioned are implied to never appear on the battlefield as well.
+
 :heavy_check_mark: Motorized Infantry
+
 :heavy_check_mark: Armor
+
 :heavy_check_mark: Snipers
+
 :heavy_check_mark: Helicopters
+
 :x: Mines & IEDs
+
 :x: Suicide Bombers
 
 __Operation Result:__
+
 Pyrrhic Victory!
+
 At the cost of many lives, we were able to stop the onslaught of BLA. Their borders do not go any farther than the river.

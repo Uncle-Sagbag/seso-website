@@ -9,4 +9,3 @@ Then, you will see the radio tower. The radio tower MUST be destroyed FIRST. Thi
 When things get hot, infiltrate the building in the compound, find the military documents, and escape back to the FOB. If we succeed, we will get ice cream and hot dogs at the base!
 
 __Operation Result:__ Successful
-Put image here!

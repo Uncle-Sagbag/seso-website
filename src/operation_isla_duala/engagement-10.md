@@ -13,15 +13,25 @@ __Execution:__
 6. Use the T-34 (or the demo blocks in the supply box) to destroy the crane in the harbor
 
 __Enemy Intelligence:__
+
 Below is the list of intelligence available on the BLA forces. Items with a check are verified to appear on the battlefield. Items with an X are verified to never appear in the battlefield. Items not mentioned are implied to never appear on the battlefield as well.
+
 :heavy_check_mark: Motorized Infantry
+
 :heavy_check_mark: Snipers
+
 :heavy_check_mark: Traitorous Namaquan Soldiers
+
 :heavy_check_mark: Armored Vehicles
+
 :heavy_check_mark: AT Mines
+
 :x: Air Vehicles
+
 :x: IEDs
+
 :x: Suicide Bombers
 
 __Operation Result:__ Success!
+
 The crane was eliminated! The BLA are now heavily hindered from acquiring new vehicles. But there are many more harbours to come.

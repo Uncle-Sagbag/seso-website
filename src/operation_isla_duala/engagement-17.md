@@ -11,12 +11,21 @@ __Execution:__
 6. Escape the scene without being spotted
 
 __Enemy Intelligence:__
+
 Below is the list of intelligence available on the Namaquan forces and the Mawties. Items with a check are verified to appear on the battlefield. Items with a question mark have a chance to appear on the battlefield if a large player population is achieved. Items with an X are verified to never appear in the battlefield. Items not mentioned are implied to never appear on the battlefield as well.
+
 :heavy_check_mark: Motorized Infantry (Cars)
+
 :heavy_check_mark: Mechanized Infantry (APCs)
+
 :heavy_check_mark: : Suicide Bombers
+
 :x: Snipers
+
 :x: Armor
+
 :x: Helicopters
+
 :x: Artillery (Mortars, rockets, etc.)
+
 :x: Mines & IEDs

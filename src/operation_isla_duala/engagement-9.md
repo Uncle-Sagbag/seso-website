@@ -12,16 +12,27 @@ __Execution:__
 5. Find out what went wrong
 
 __Enemy Intelligence:__
+
 Below is the list of intelligence available on the unknown 3rd faction, which we now know as the Shadowmen. Items with a check are verified to appear on the battlefield. Items with an X are verified to never appear in the battlefield. Items not mentioned are implied to never appear on the battlefield as well.
+
 :heavy_check_mark: Traitorous Namaquan Soldiers
+
 :heavy_check_mark: Well-trained ex-Namaquan Special Forces
+
 :heavy_check_mark: Ambushes
+
 :heavy_check_mark: Snipers
+
 :heavy_check_mark: Mines, IEDs, and Explosives
+
 :heavy_check_mark: Motorized Infantry
+
 :heavy_check_mark: Armored vehicles
+
 :x: Air vehicles
+
 :x: Suicide Bombers
 
 __Operation Result:__ Failure
+
 The surviving crew died, the remains were destroyed, and barely anyone returned with their bodies intact. The mission was not achieved.
