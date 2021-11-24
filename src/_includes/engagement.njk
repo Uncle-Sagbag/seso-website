@@ -1,13 +1,16 @@
 ---
 layout: index.njk
 ---
+{% macro img( alt="Image", file_extension=".png" ) %}
+<img src="/assets/img/{{ tags }}/{{ page.fileSlug }}{{ file_extension }}" alt="{{ alt }}">
+{% endmacro %}
 
 <article>
 
-<img src="/assets/img/{{ tags }}/{{ page.fileSlug }}.png" alt="Cover Image">
+{{ img("Cover Image") }}
 
 {{ content | safe }}
 
-<img src="/assets/img/{{ tags }}/{{ page.fileSlug }}-result.png" alt="Result Image">
+{{ img("Result Image", "-result.png") }}
 
 </article>

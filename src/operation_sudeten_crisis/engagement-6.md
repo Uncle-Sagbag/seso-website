@@ -3,6 +3,7 @@ __Operation Name:__ Grün
 __Situation:__ After the kidnapping of the diplomats from the previous operation, command immediately began to investigate any clues and preparing contingency plans once the diplomats are found. However, as this command was going on, the newly formed SFK has launched a devastating attack on the Jonsdorf - Krompach Customs House where we held the checkpoint only a few days ago. The Camp Grypon Garrison has scrambled to reinforce and rescue whatever remains of the customs house, hopefully improving our standing as this goes.
 
 __Execution:__
+
 (0. Reach the Jonsdorf - Krompach Customs House)
 1. MEDEVAC the wounded
 NOTE: It is not essential to stay and defend the area
