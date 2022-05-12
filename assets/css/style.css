@@ -18,6 +18,7 @@ strong {
 }
 
 footer {
+  box-shadow: 0px 0px 12px black;
   background-color: black;
   color: white;
   width: 100%;
@@ -59,6 +60,7 @@ table {
 .topnav a:hover {
   box-shadow: 0px 0px 24px gray;
   background-color:gray;
+  transition: all .2s ease-in-out;
 }
 
 .topnav .active {
@@ -69,6 +71,7 @@ table {
 #logo {
   width: 63px;
   height: 100%;
+  filter: drop-shadow(0px 0px 12px rgb(18, 19, 18))
 }
 
 #logo a {
@@ -92,6 +95,9 @@ article {
   color: rgb(221, 221, 221);
 }
 
+#padding_remove {
+  padding: 62px 68px;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'CooperHewittSemibold'; 

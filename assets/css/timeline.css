@@ -30,13 +30,14 @@
 
 .timeline li:hover {
     background: green;
+    transition: all .2s ease-in-out;
 }
 
 .timeline li:before {
     font-family: 'CooperHewittSemibold';
     display: inline-block;
     content: attr(data-year);
-    font-size: medium;
+    font-size: small;
     position: absolute;
     transform: translateX(-50%);
 }
@@ -91,12 +92,13 @@
 /* For tablets: */
 @media only screen and (min-width: 690px) {
     .timeline li        { height: 14px; width: 14px; }
-    .timeline li:before { font-size: x-large }
-    .timeline li:after  { font-size: 16px }
+    .timeline li:before { font-size: large }
+    .timeline li:after  { font-size: 8pt }
   }
 
 /* For desktop: */
 @media only screen and (min-width: 1024px) {
     .timeline li        { height: 18px; width: 18px; }
-    .timeline li:after  { font-size: 18px }
+    .timeline li:before { font-size: x-large }
+    .timeline li:after  { font-size: 12pt }
   }

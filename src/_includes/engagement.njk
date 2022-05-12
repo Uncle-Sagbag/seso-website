@@ -1,15 +1,24 @@
 ---
+title: Engagement Briefing
 layout: index.njk
 ---
 {% macro img( alt="Image", file_extension=".png" ) %}
 <img src="/assets/img/{{ tags }}/{{ page.fileSlug }}{{ file_extension }}" alt="{{ alt }}">
 {% endmacro %}
 
+<article id="padding_remove">
+
+{% include "_timeline.njk" %}
+
+</article>
+
 <article>
 
 {{ img("Cover Image") }}
 
 {{ content | safe }}
+
+{{ img("Execution Image", "-exec.png") }}
 
 {{ img("Result Image", "-result.png") }}
 

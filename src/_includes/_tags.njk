@@ -1,5 +1,5 @@
-<ul>
+<ul class="tabs group">
 {% for page in collections[page.fileSlug | replace("-","_")]%}
-    <a href="{{ page.url }}"><li>{{ page.url }}</li></a>
+    <li><a href="{{ page.url }}">{{ page.fileSlug | replace("engagement-","") }}</a></li>
 {%- endfor %}
 </ul>

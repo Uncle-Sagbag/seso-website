@@ -1,0 +1,84 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+#tabbed {
+  max-width: 980px;
+  align-content: center;
+  margin: auto;
+}
+
+.group:after {
+  clear: both;
+}
+.group {
+  position: relative;
+  left: 20px;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  float: inline-end;
+  z-index: 20;
+}
+
+.tabs { 
+  list-style: none; 
+}
+  .tabs li { 
+  /* Makes a vertical row */
+    float: right;
+    
+    /* So the psueudo elements can be
+        abs. positioned inside */
+    position: relative;
+  }
+  .tabs a { 
+    /* Make them block level
+        and only as wide as they need */
+    float: right; 
+    padding: 20px 5px;
+    text-decoration: none;
+
+    /* Default colors */ 
+    color: white;
+    background: rgb(18, 19, 18); 
+
+    /* Only round the top corners */
+    -webkit-border-top-right-radius: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px; 
+  }
+  .tabs .active {
+    /* Highest, active tab is on top */
+    z-index: 3;
+  }
+  .tabs .active a { 
+    /* Colors when tab is active */
+    background: black; 
+    color: white; 
+  }
+  .tabs li:before, .tabs li:after, 
+  .tabs li a:before, .tabs li a:after {
+    /* All pseudo elements are 
+        abs. positioned and on bottom */
+    position: absolute;
+    bottom: 0;
+  }
+  /* Only the first, last, and active
+      tabs need pseudo elements at all */
+  .tabs li:last-child:after,   .tabs li:last-child a:after,
+  .tabs li:first-child:before, .tabs li:first-child a:before,
+  .tabs .active:after,   .tabs .active:before, 
+  .tabs .active a:after, .tabs .active a:before {
+    content: "";
+  }
+
+  .tabs .active a:after, .tabs .active a:before {
+    background: rgb(18, 19, 18);
+  }

@@ -2,78 +2,45 @@
 title: Home
 layout: home.njk
 ---
+
+
 # Welcome to S.E.S.O.
+![Operation Angola Group Photo](/assets/img/groupphoto.png)
 ***
+## About S.E.S.O.
+SESO was established in 2018 with a focus on variety and story. We design 3-month long operations that are fun to play, easy to join, and contribute to the [SESO canon](https://wiki.sesounit.org/canon:list). The casual playstyle is tailored to allow one to join an operation as soon as possible. There is no required experience, minimum age, or test.
+
+### Rankless Structure
+
+We do not hold any ranks, in-game or out. Our structure allows anyone choose any role they wish, whether it be squad leader, sniper, UAV operator, etc. as long one fulfills their role. Players do not have to commit to a particular role and are open to switch roles every week.
+
+### Canon
+
+Operations set in the S.E.S.O. canon that span 90+ years. This means our operations can be set in any time period and setting, granting enormous variety. We have operated during the invasion of Czechoslovakia ([Sudeten Crisis, 1938](/timeline/operation-sudeten-crisis/)), the Vietnam War ([Operation Burning Buddhist, 1965](timeline/operation-burning-buddhist/)), the Chernobyl Exclusion Zone ([Operation Green Diamond, 1988](/timeline/operation-green-diamond/)), and the Donbass War ([Crimean Crisis, 2014](/timeline/operation-crimean-crisis/)). We also operate in fictional settings that are based off historical events such as a Yugoslavian civil war set on Fapovo Islands ([Operation Openhouse, 1992](/timeline/operation-openhouse/)), and a southern African civil war on Isla Duala ([Isla Duala Civil War, 2000](/timeline/operation-isla-duala/)).
+
+### Active Community
+
+We play Arma 3 scenarios and other games every night. If you are looking for a community of friends, we are always welcoming.
+
+***
+
 ## Schedule
-We operate in the EST timezone. However, we have Operators from other timezones, especially European and Pacific.
+We focus on on EST (Eastern United States) timezone. We have players from PST, MST, CST, EST, BST, CEST, and MSK.
 
 Operation | Saturday | Sunday
 :--|:--|:--
-S.E.S.O. Operation | 1800 EST | 1800 EST
-
-***
-## What we offer
-### Casual MilSim Atmosphere
-
-We focus on having fun first, being tactical second. Our settings are configured for maximum enjoyment with the the least drag.
-
-### Easily Accessible
-
-No experience, no test, no minimum age, no microphone needed, no single-clanning requirement. Just have Arma 3 and a desire for cooperation.
-
-### Rankless structure
-
-We do not hold any ranks in the unit, in-game or outside. Yet, we still hold a structure and use common-sense tactics as defined in our [Tactics Training manual](https://wiki.sesounit.org/tutorials_guides:tactics_training). Anyone is permitted to choose any role they wish, whether it be squad leader, sniper, pilot, etc. as long as most of the group agrees with the role selection.
-
-### Infantry-focused Combat
-
-Infantry is the backbone of the unit and every vehicle is meant to support it. Most common roles we offer are:
-* Designated Marksman 
-* Engineer
-* Medic 
-* Machinegunner
-* Sniper
-* Scout
-* Squad Leader
-* Team Leader
-* Radio Operator
-* UAV Operator
-
-### S.E.S.O. Canon Operations
-
-Operations set in the S.E.S.O. canon are part of a storyline that spans decades. This means our operations can be set in any time period and setting. We have operated during the invasion of Czechoslovakia (Sudeten Crisis, 1938), the Vietnam War (Operation Burning Buddhist, 1965), the Chernobyl Exclusion Zone (Operation Green Diamond, 1988), and the Donbass War (Operation Black Bear, 2014). We also operate in fictional settings that are inspired by historical events such as a Yugoslavian Wars set on Fapovo Islands (Operation Openhouse, 1992), and a Southern African civil war on Isla Duala (Isla Duala Civil War, 2000).
-
-### 24/7 Scenarios Server
-
-Our dedicated server machine runs community-made scenarios on rotation, always available to play any time. This is available for all Operators, whether they attend operations or not. The current scenarios we play are Antistasi (with RHS mods), Manhunt, and Dynamic Recon Ops. Feel free to suggest more workshop missions.
-
-### Hosting Engagements
-
-It is possible for any Operator to become an Operation/Engagement Host. Ask Operations Command to feature your custom-made missions to the unit. There is no test or experience necessary. With enough experience, one can also contribute to the S.E.S.O. storyline. See the [Operation Standard](https://wiki.sesounit.org/tutorials_guides:operation_standard) for more details.
-
-### Active Lounge
-
-Every night, we gather in voice channels to play games. We are welcome for anyone to join in our multiplayer game sessions, mod developments, or just to chat.
-
+Operation Angola | 1800 EST |
+Operation Osiris | | 1800 EST
 
 ***
 
-## How to Join S.E.S.O.
-
-1. Join the discord at  https://discord.gg/AVE9Gvq97C
-2. Download the mods you want in #mod-list
-3. Join the Teamspeak Server using #teamspeak-info
-4. Join the game server using the same connection details from #teamspeak-info
+## Media
+All media is linked and provided on the [S.E.S.O. Youtube Channel](https://www.youtube.com/channel/UC5iMX4ubNxfiFaG2fbAOKOg/featured). More media is available at [Operations](/operations/) and [Media](/media/).
 
 ***
 
-# About SESO
-S.E.S.O. was created in 2018 between a group of military nuts. Since then, we have been hosting operations for all to join. We are a tightly knit community bent on providing engaging experiences where friends can cooperate without the overhead of ranks and tests. We receive 10+ players per operation. We welcome you to join us for one operation or many.
+# How to Join S.E.S.O.
+Follow the [New Operative Guide](https://wiki.sesounit.org/guides/new_operative) at our wiki.
 
-S.E.S.O. is a private military company with an extensive history since our inception in 1938. Please visit [Operations](/operations/) and [Media](/media/) to see our previous operations.
-
-![SESO Operation Black Bear Group Photo](/assets/img/groupphoto.jpeg "SESO Group Photo")
-
-# Community Links
-Join us in Discord at the link below!
+If you have any questions, please join us in our Discord:
 [Discord Link](https://discord.gg/h7aWmRGJwB)

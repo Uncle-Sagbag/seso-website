@@ -1,12 +1,14 @@
 ---
 layout: index.njk
 ---
-<article>
+<article id="padding_remove">
 
 {% include "_timeline.njk" %}
 
 </article>
 
+<div id="tabbed">
+{% include "_tags.njk" %}
 <article>
 
 <h3> {{ title }} </h3>
@@ -19,6 +21,4 @@ layout: index.njk
 
 </article>
 
-<article>
-    {% include "_tags.njk" %}
-</article>
+</div>
